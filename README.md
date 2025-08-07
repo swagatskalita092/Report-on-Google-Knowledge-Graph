@@ -4,4 +4,4 @@ A seminar report exploring the evolution, architecture, evaluation, and ethical 
 ## License
 © 2025 Swagat Subhash Kalita. Licensed under CC BY 4.0.
 Please attribute as: “Kalita, S.S. (2025). Google Knowledge Graph: Origins, Technical Foundations, Accuracy, and Ethics.”
-Link: https://github.com/<user>/<repo>
+Link: https://github.com/swagatskalita092/Report-on-Google-Knowledge-Graph
